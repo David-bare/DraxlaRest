@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|c:\\users\\homepc\\documents\\maxut\\draxlarest\\draxlarest\\draxlarest\\models\\staffdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|solutionrelative:models\\staffdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|c:\\users\\homepc\\documents\\maxut\\draxlarest\\draxlarest\\draxlarest\\controllers\\draxlaconnectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|solutionrelative:controllers\\draxlaconnectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|c:\\users\\homepc\\documents\\maxut\\draxlarest\\draxlarest\\draxlarest\\models\\stafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|solutionrelative:models\\stafflogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|c:\\users\\homepc\\documents\\maxut\\draxlarest\\draxlarest\\draxlarest\\models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|solutionrelative:models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\models\\userenumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|solutionrelative:models\\userenumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\api\\corporateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|solutionrelative:api\\corporateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\api\\retailsenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC03C792-1E66-473C-8C55-19764AF0E7ED}|DraxlaRest.csproj|solutionrelative:api\\retailsenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffLogin.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\Models\\StaffLogin.cs",
+              "RelativeDocumentMoniker": "Models\\StaffLogin.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\Models\\StaffLogin.cs",
+              "RelativeToolTip": "Models\\StaffLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:24:37.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffDetails.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\Models\\StaffDetails.cs",
+              "RelativeDocumentMoniker": "Models\\StaffDetails.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\Models\\StaffDetails.cs*",
+              "RelativeToolTip": "Models\\StaffDetails.cs*",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wBMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:25:05.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\Models\\Authentication.cs",
+              "RelativeDocumentMoniker": "Models\\Authentication.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\Models\\Authentication.cs",
+              "RelativeToolTip": "Models\\Authentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:52:44.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserEnumeration.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\Models\\UserEnumeration.cs",
+              "RelativeDocumentMoniker": "Models\\UserEnumeration.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\Models\\UserEnumeration.cs",
+              "RelativeToolTip": "Models\\UserEnumeration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:26:34.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DraxlaConnectController.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\Controllers\\DraxlaConnectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DraxlaConnectController.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\Controllers\\DraxlaConnectController.cs",
+              "RelativeToolTip": "Controllers\\DraxlaConnectController.cs",
+              "ViewState": "AQIAAKUGAAAAAAAAAAAEwEsFAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:42:54.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-18T18:40:23.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RetailsEnum.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\API\\RetailsEnum.cs",
+              "RelativeDocumentMoniker": "API\\RetailsEnum.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\API\\RetailsEnum.cs",
+              "RelativeToolTip": "API\\RetailsEnum.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:39:00.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CorporateEnum.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\API\\CorporateEnum.cs",
+              "RelativeDocumentMoniker": "API\\CorporateEnum.cs",
+              "ToolTip": "C:\\Users\\HomePC\\Documents\\Maxut\\DraxlaRest\\DraxlaRest\\DraxlaRest\\API\\CorporateEnum.cs",
+              "RelativeToolTip": "API\\CorporateEnum.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:33:29.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
